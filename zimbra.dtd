@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/log/convertd.log"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:///opt/zimbra/log/logger_myslow.log"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
